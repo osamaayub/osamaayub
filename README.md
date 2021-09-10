@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=osamaayub&count_private=true&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&show_icons=true&theme=radical)
 ![Shields](https://simpleicons.org)
-![Icons](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
+
