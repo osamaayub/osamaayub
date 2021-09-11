@@ -14,11 +14,10 @@
 
  ###![(ConnectWith me)]
  <thead>
-<p align="left"> <a href="https://twitter.com/osamaayub9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="osamaayub" height="30" width="40" /></a> --
-  <a href="https://linkedin.com/in/osama-ayub-9aba58175" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
-<a href="https://instagram.com/ayub.683" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  height="30" width="40" /></a>
-  </thead>
-</p>
+
+ <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/ayub.683/"><img src="assets/insta.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/osama-ayub-9aba58175/"><img src="assets/linkdln.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
 <br>
 
