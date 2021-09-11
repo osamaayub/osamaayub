@@ -2,6 +2,20 @@
 
 
 
+<table>
+<thead>
+<th>
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=tokyonight"></th>
+<th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=tokyonight" alt="osama" /></th>
+  <th><img src="https://github-readme-stats.vercel.app/api?username=osamaayub&theme=tokyonight"></th>
+</thead>
+</table>
+<hr>
+  
+
+
+
 **osamaayub/osamaayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&show_icons=true&theme=radical)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=osamaayub&count_private=true&show_icons=true&theme=radical)
 
