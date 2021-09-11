@@ -19,13 +19,6 @@
 <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
 
 
-<table>
-
-  <thead>
-    <td>Languages</td>
-    <td><img src="./../Downloads/vscode-icons_file-type-python.png" width="60px;"></td>
-     </thead>
-
 
 **osamaayub/osamaayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
