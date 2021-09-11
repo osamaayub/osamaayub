@@ -1,7 +1,5 @@
 <p> Hi there 👋</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=osamaayub&count_private=true&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&show_icons=true&theme=radical)
 
 
 **osamaayub/osamaayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +15,7 @@ Here are some ideas to get you started:
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=osamaayub&count_private=true&show_icons=true&theme=radical)
 
