@@ -7,7 +7,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=tokyonight"></th>
 <th><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=tokyonight" alt="osama" /></th>
   <th><img src="https://github-readme-stats.vercel.app/api?username=osamaayub&theme=tokyonight"></th>
-  
 </thead>
 </table>
 <hr>
@@ -48,15 +47,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my skills and learn new Things
+- 🔭 I’m currently working on some basic python projects
 - 🌱 I’m currently learning HTML,CSS,Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  
+-🌍 I am from: Lahore Pakistan
+- I like: coding,cricket,badminton
 - 📫 How to reach me: ...
 -ayubosama416@gmail.com
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 
