@@ -34,6 +34,7 @@
     <td><img src="Skills/logos_github-octocat.png" width="30px;"></td>
     <td><img src="Skills/Assembly.jpg" width="60px;"></td>
     <td><img src="Skills/css.png" width="60px;"></td>
+    <td><img src="Skills/Html.png" width="60px;"></td>
      </thead>
 
   <tr>
