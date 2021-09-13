@@ -49,9 +49,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some basic python projects
 - 🌱 I’m currently learning HTML,CSS,Javascript
-  
--🌍 I am from: Lahore Pakistan
-- I like: coding,cricket,badminton
+
 - 📫 How to reach me: ...
 -ayubosama416@gmail.com
 
