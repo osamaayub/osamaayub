@@ -40,7 +40,7 @@
 ```text
 C++ Language        1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 C Language          1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-pythn               1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+python               1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 HTML                1 hr 10 mins
 ```
 <!--END_SECTION:osamaayub-->
