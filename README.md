@@ -22,6 +22,15 @@
 <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
 <br>
 
+  # 1. Contributors Badge
+
+<!--If you view this code ps: Ignore the unethical ways used for formatting-->
+<div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
+  # 2. Repository View Counter
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/osamaayub/GitHub-Badges)
+
+  
 <table>
 
   <thead>
