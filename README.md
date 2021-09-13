@@ -17,6 +17,10 @@
 [![C_Language_Badge](https://img.shields.io/badge/-C-007ace?style=for-the-badge&labelColor=black&logo=C&logoColor=007acc)](#)
 [![HTML_Language_Badge](https://img.shields.io/badge/-HTML-=F0DB4F?style=for-the-badge&labelColor=orange&logo=HTML&logoColor=F0DB4F)](#)
 
+###Community Badge
+<a href="https://twitter.com/osamaayub9" ><img src="https://img.shields.io/twitter/follow/osamaayub.svg?style=social" /> </a>
+  <hr>
+  <br>
  ###![(ConnectWith me)]
  <thead>
  <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +33,6 @@
 <br>
 
 
- 
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=osama.ayub)
