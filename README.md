@@ -11,6 +11,12 @@
 </table>
 <hr>
 
+### Badges
+[![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=Python&logoColor=61DBFB)](#) 
+[![C++ Badge](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&labelColor=Red&logo=C++&logoColor=007acc)
+[![C_Language_Badge](https://img.shields.io/badge/-C-007ace?style=for-the-badge&labelColor=black&logo=C&logoColor=007acc)](#)
+[![HTML_Language_Badge](https://img.shields.io/badge/-HTML-=F0DB4F?style=for-the-badge&labelColor=orange&logo=HTML&logoColor=F0DB4F)](#)
+
  ###![(ConnectWith me)]
  <thead>
  <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,14 +28,22 @@
 <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
 <br>
 
-  #1. Contributors Badge
 
-<!--If you view this code ps: Ignore the unethical ways used for formatting-->
-<div style="width: calc(30% - .5em); border: 2px solid black; padding: 5px;">
-  # 2. Repository View Counter
+ 
+#### Profile Visits 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/osamaayub/GitHub-Badges)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=osama.ayub)
 
+ #### Coding Stats
+
+<!--START_SECTION:osamaayub-->
+```text
+C++ Language        1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+C Language          1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+pythn        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+HTML      
+```
+<!--END_SECTION:osamaayub-->
   
 <table>
 
