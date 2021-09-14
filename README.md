@@ -16,27 +16,26 @@
 [![C++ Badge](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&labelColor=Red&logo=C++&logoColor=007acc)
 [![C_Language_Badge](https://img.shields.io/badge/-C-007ace?style=for-the-badge&labelColor=black&logo=C&logoColor=007acc)](#)
 [![HTML_Language_Badge](https://img.shields.io/badge/-HTML-=F0DB4F?style=for-the-badge&labelColor=orange&logo=HTML&logoColor=F0DB4F)](#)
-
+<hr>
 ###Community Badge
 <a href="https://twitter.com/osamaayub9" ><img src="https://img.shields.io/twitter/follow/osamaayub.svg?style=social" /> </a>
   <hr>
-  <br>
  ###![(ConnectWith me)]
  <thead>
+  <br>
  <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.instagram.com/ayub.683/"><img src="assets/insta.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/osama-ayub-9aba58175/"><img src="assets/linkdln.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UC56Q2bWaSRApOoBv877W2Dg"> <img src="assets/youtube.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile/Osama Ayub/"><img src="assets/facebook.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
   
-<p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
-<br>
+  <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
 
+  <br>
 
 #### Profile Visits 
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=osama.ayub)
-
+<br>
  #### Coding Stats
 
 <!--START_SECTION:osamaayub-->
@@ -69,15 +68,6 @@ HTML                1 hr 10 mins
      <td><img src="Skills/logos_mysql.png" width="30px;"></td>
   </tr>
   
-**osamaayub/osamaayub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on some basic python projects
-- 🌱 I’m currently learning HTML,CSS,Javascript
-
-- 📫 How to reach me: ...
--ayubosama416@gmail.com
 
 
 
