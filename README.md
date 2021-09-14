@@ -28,7 +28,7 @@
  <a href="https://www.linkedin.com/in/osama-ayub-9aba58175/"><img src="assets/linkdln.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UC56Q2bWaSRApOoBv877W2Dg"> <img src="assets/youtube.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile/Osama Ayub/"><img src="assets/facebook.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
-  <a href="https://www.github.com/profile/Osamaayub/"><img src="Skills/github.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
+  <a href="https://www.github.com/profile/osamaayub/"><img src="assets/github.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
   
   
   <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
