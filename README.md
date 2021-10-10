@@ -30,7 +30,16 @@
   <a href="https://www.facebook.com/profile/Osama Ayub/"><img src="assets/facebook.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
   <a href="https://www.github.com/osamaayub/"><img src="assets/github.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
   
+ 
+  ## Achievements
+
+Title | Badge | Earnable? | Earned by
+------------ | ------------- | ------------ | -------------
+Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/osamaayub/github-profile-achievements/blob/main/images/badge-arctic-code-vault-small.png?raw=true) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
+GitHub Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/osamaayub/github-profile-achievements/blob/main/images/badge-sponsors-small.png?raw=true) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Mars 2020 Helicopter Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](https://github.com/osamaayub/github-profile-achievements/blob/main/images/badge-mars-2020-small.png?raw=true) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/readme/nasa-ingenuity-helicopter)
   
+ 
   <p> <img src="https://komarev.com/ghpvc/?username=osamaayub" alt="osama" /> </p>
   
   <i>A curated list of awesome Github Profile READMEs</i>
