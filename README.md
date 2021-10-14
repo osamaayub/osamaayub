@@ -23,13 +23,12 @@
  ###![(ConnectWith me)]
  <thead>
   <br>
- <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.instagram.com/ayub.683/"><img src="assets/insta.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/osama-ayub-9aba58175/"><img src="assets/linkdln.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.youtube.com/channel/UC56Q2bWaSRApOoBv877W2Dg"> <img src="assets/youtube.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile/Osama Ayub/"><img src="assets/facebook.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
+ <a href="https://www.twitter.com/in/osamaayub9/"><img src="assets/twitter.png" width="60px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.instagram.com/ayub.683/"><img src="assets/insta.png" width="60px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/osama-ayub-9aba58175/"><img src="assets/linkdln.png" width="60px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UC56Q2bWaSRApOoBv877W2Dg"> <img src="assets/youtube.png" width="60px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile/Osama Ayub/"><img src="assets/facebook.png" width="60px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
   <a href="https://www.github.com/osamaayub/"><img src="assets/github.png" width="50px;"></a> &nbsp;&nbsp;&nbsp;&nbsp
-  
   <hr>
   ###![(Achievements)]
  <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png">
