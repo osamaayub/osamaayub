@@ -22,6 +22,8 @@
 <a href="https://instagram.com/usama.ayub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama.ayub1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Osama Ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Osama ayub" height="30" width="40" /></a>
 <a href="https://discord.gg/usama4385#1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="usama4385#1412" height="30" width="40" /></a>
+  <a href="https://github.com/osamaayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Osamaayub" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
