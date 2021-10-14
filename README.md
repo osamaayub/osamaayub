@@ -18,9 +18,9 @@
 <a href="https://codepen.io/usama4385" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="usama4385" height="30" width="40" /></a>
 <a href="https://twitter.com/osamaayub9" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamaayub9" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/osama-ayub-9aba58175" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama-ayub-9aba58175" height="30" width="40" /></a>
-<a href="https://fb.com/osama ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama ayub" height="30" width="40" /></a>
+<a href="https://fb.com/Osama Ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Osama Ayub" height="30" width="40" /></a>
 <a href="https://instagram.com/usama.ayub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama.ayub1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/osama ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="osama ayub" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Osama Ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="osama ayub" height="30" width="40" /></a>
 <a href="https://discord.gg/usama4385#1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="usama4385#1412" height="30" width="40" /></a>
 </p>
 
