@@ -10,7 +10,7 @@
 - 🤝 I’m currently working with [Technical-Documentation-Page Project](https://codepen.io/usama4385/pen/mdMJVdr)
 - 🤝 I’m currently working with [Product Landing  Project](https://codepen.io/usama4385/pen/JjydYVQ)
 
-- 💬 Ask me about **Html,python,CSS**
+- 💬 Ask me about **Html,python,CSS,javascript**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
