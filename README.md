@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osam Ayub</h1>
+<h1 align="center">Hi 👋, I'm Osama Ayub</h1>
 <h3 align="center">Learning to become a frontend developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Tribute-Page Project](https://codepen.io/usama4385/pen/BadyyrO)
