@@ -3,14 +3,14 @@
 
 - 🔭 I’m currently working on [Tribute-Page Project](https://codepen.io/usama4385/pen/BadyyrO)
 
-- 🌱 I’m currently learning JavaScript and React Js**
+- 🌱 I’m currently working on javascript**
 
 - 👯 I’m looking to collaborate on [Survey-form Project](https://codepen.io/freeCodeCamp/pen/VPaoNP)
 
 - 🤝 I’m currently working with [Technical-Documentation-Page Project](https://codepen.io/usama4385/pen/mdMJVdr)
 - 🤝 I’m currently working with [Product Landing  Project](https://codepen.io/usama4385/pen/JjydYVQ)
 
-- 💬 Ask me about **Html,CSS,javascrip,React Js**
+- 💬 Ask me about **Html,CSS,javascript and Bootstrap**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
