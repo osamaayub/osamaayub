@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Tribute-Page Project](https://codepen.io/usama4385/pen/BadyyrO)
 
-- 🌱 I’m currently learning **CSS,JavaScript and React Js**
+- 🌱 I’m currently learning JavaScript and React Js**
 
 - 👯 I’m looking to collaborate on [Survey-form Project](https://codepen.io/freeCodeCamp/pen/VPaoNP)
 
