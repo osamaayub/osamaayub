@@ -26,8 +26,6 @@
   <a href="https://github.com/osamaayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Osamaayub" height="30" width="40" /></a>
   
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamaayub)](https://git.io/streak-stats)
-
 
 
   
