@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript And Boostrap**
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript,Python**
+- 💬 Ask me about **HTML5,CSS3,JavaScript, Boostrap,MYSQL**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
