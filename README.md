@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaayub" alt="osamaayub" /></a> </p>
 
-- 🔭 I’m currently working on JavaScript [WeatherApp](https://www.github.com/osamaayub/Weather-APP.git)
-- I’m currently working on JavaScript [SimpleCalculator](https://www.github.com/osamaayub/Simple-Calculator.git)
+- 🔭 Currently working on different projects using HTML,CSS, JavaScript.
 - 
 
 - 🌱 I’m currently learning **JavaScript And Boostrap**
