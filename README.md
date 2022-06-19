@@ -8,7 +8,7 @@
 - 🔭 Currently working on different projects using HTML,CSS, JavaScript.
 - 
 
-- 🌱 I’m currently learning **JavaScript And Boostrap**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **HTML5,CSS3,JavaScript, Boostrap,MYSQL**
 
