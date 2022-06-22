@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **HTML5,CSS3,JavaScript, Boostrap,MYSQL**
+- 💬 Ask me about **HTML5,CSS3,JavaScript, Boostrap,PHP,MYSQL**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
