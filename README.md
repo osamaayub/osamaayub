@@ -8,7 +8,7 @@
 - 🔭 Currently working on different projects using HTML,CSS, JavaScript.
 - 
 
-- 🌱 I’m currently learning **JavaScript and then learn React js after compeleting javascript**
+- 🌱 I’m currently learning React js **
 
 - 💬 Ask me about **HTML5,CSS3,JavaScript, Boostrap,PHP,MYSQL**
 
