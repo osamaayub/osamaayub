@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lYnAtmVhq0rWjsMBleaVndSGWC9RiclK/view?usp=sharing](https://drive.google.com/file/d/1lYnAtmVhq0rWjsMBleaVndSGWC9RiclK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
