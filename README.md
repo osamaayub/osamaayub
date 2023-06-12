@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/osamaayub9ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamaayub9ayub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/osama-ayub8889993755979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-ayub8889993755979/" height="30" width="40" /></a>
-<a href="https://fb.com/osama ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama ayub" height="30" width="40" /></a>
-<a href="https://instagram.com/usama.ayub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama.ayub1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayubosama416" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayubosama416" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samayub" height="30" width="40" /></a>
+<a href="https://twitter.com/osamaayub9ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osamaayub9ayub" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/osama-ayub8889993755979/" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osama-ayub8889993755979/" height="30" width="40" /></a>
+<a href="https://fb.com/osama ayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama ayub" height="30" width="40" /></a>
+<a href="https://instagram.com/usama.ayub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usama.ayub1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ayubosama416" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayubosama416" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/samayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/osamaayub/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samayub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
