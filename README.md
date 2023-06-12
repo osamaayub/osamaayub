@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaayub" alt="osamaayub" /></a> </p>
 
-- Hi , I am Working on a react projects**
+- Hi , I am currently Working on a react projects**
 
-- 🌱 I’m currently learning **Typescript,firebase,redux**
+- 🌱 I’m currently learning **Typescript,firebase,redux with react js**
 
 - 👨‍💻 All of my projects are available at [https://osamaayub.netlify.app/](https://osamaayub.netlify.app/)
 
-- 💬 Ask me about **react,taiwind css,react hooks**
+- 💬 Ask me about **react,taiwind css,react hooks,redux ,html,css ,Bootstrap,javaScript**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
