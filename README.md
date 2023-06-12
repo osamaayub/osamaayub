@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaayub" alt="osamaayub" /></a> </p>
 
-- Hi , I am Working on a **Quiz App**
+- Hi , I am Working on a react projects**
 
 - 🌱 I’m currently learning **Typescript,firebase,redux**
 
