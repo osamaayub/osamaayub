@@ -36,4 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&" alt="osamaayub" /></p>
 <p><img src="https://api.netlify.com/api/v1/badges/502bb712-8911-4c91-ad22-1ad89f4c2f36/deploy-status"/></p>
-     <p> <img src="https://app.netlify.com/sites/portfoliowebsitetierslimited/deploys"/></p>
