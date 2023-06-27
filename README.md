@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaayub" alt="osamaayub" /></a> </p>
 
-- Hi , I am currently Working on different  react projects **
+- Hi, I am currently Working on different  react projects **
 
-- 🌱 I’m currently learning **node js,Express ,MongoDB ,Typescript*
+- 🌱 I’m currently learning **node js, Express, MongoDB , Typescript*
 
 - 👨‍💻 All of my projects are available at [https://osamaayub.netlify.app/](https://osamaayub.netlify.app/)
 
-- 💬 Ask me about **react,taiwind css,react hooks,redux ,html,css ,Bootstrap,javaScript**
+- 💬 Ask me about **react, tailwind CSS, react hooks, redux,html,css, Bootstrap, javaScript**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&locale=en" alt="osamaayub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&" alt="osamaayub" /></p>
+<p>[![Netlify Status](https://api.netlify.com/api/v1/badges/502bb712-8911-4c91-ad22-1ad89f4c2f36/deploy-status)](https://app.netlify.com/sites/portfoliowebsitetierslimited/deploys)</p>
