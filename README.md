@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://osamaayub.netlify.app/](https://osamaayub.netlify.app/)
 
-- 💬 Ask me about **react, tailwind CSS, react hooks, redux,html,css, Bootstrap, javaScript**
+- 💬 Ask me about **React, Tailwind CSS, React hooks, Redux,Html,CSS, Bootstrap, JavaScript**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
