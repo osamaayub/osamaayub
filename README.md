@@ -7,7 +7,7 @@
 
 - Hi, I am currently Working on different  react projects **
 
-- 🌱 I’m currently learning **node js, Express, MongoDB
+- 🌱 I’m currently learning **Node js, Express, MongoDB
 
 - 👨‍💻 All of my projects are available at [https://osamaayub.netlify.app/](https://osamaayub.netlify.app/)
 
