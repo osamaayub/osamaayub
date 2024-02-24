@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node js, Express, MongoDB
 
-- 👨‍💻 All of my projects are available at [https://osamaayub.netlify.app/](https://osamaayub.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://osamaayub.netlify.app/)
 
-- 💬 Ask me about **React, Tailwind CSS, React hooks, Redux,Html,CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **React Js, Tailwind CSS, HTML,CSS, SCSS, JavaScript, Bootstrap**
 
 - 📫 How to reach me **ayubosama416@gmail.com**
 
