@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Ayub</h1>
-<h3 align="center">A passionate React Developer Learning  to become  a MernStack Developer</h3>
+<h3 align="center">I'm a currently Learning to become a FullStack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osamaayub&label=Profile%20views&color=0e75b6&style=flat" alt="osamaayub" /> </p>
 
