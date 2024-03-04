@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osamaayub" alt="osamaayub" /></a> </p>
 
-- Hi, I am currently Working on different  react projects **
+- Hi, I am currently Working on different projects **
 
-- 🌱 I’m currently learning **Node js, Express, MongoDB
+- 🌱 I’m currently learning **Mernstack development
 
 - 👨‍💻 All of my projects are available at (https://osamaayub.netlify.app/)
 
