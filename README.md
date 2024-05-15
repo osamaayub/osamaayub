@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at (https://osamaayub.netlify.app/)
 
-- 💬 Ask me about **React Js, Tailwind CSS, HTML,CSS, SCSS, JavaScript, Bootstrap**
+- 💬 Ask me about **React Js, Tailwind, HTML,CSS, SCSS, JavaScript, Bootstrap**
 
-- 📫 How to reach me **ayubosama416@gmail.com**
+- 📫 How to reach me **osama.ayubwebdev@gmail.com**
 
 - ⚡ Fun fact **Yes I am**
 
