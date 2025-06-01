@@ -7,7 +7,7 @@
 
 - Hi, I am currently Working on different projects **
 
-- 🌱 I’m currently learning **Mernstack development
+- 🌱 I’m currently learning **Next Js By Working on diffrerent Projects
 
 - 👨‍💻 All of my projects are available at (https://osamaayub.netlify.app/)
 
