@@ -6,34 +6,32 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=darkhub" alt="osamaayub" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=flat&row=1&column=6" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### **Junior Software Engineer**  
+### **Junior Software Engineer**
 **SensViz** · Full-time  
 📍 Lahore, Punjab, Pakistan · On-site  
 🗓 **Aug 2025 – Present**
 
-- Built and maintained scalable **MERN stack applications** (**MongoDB, Express.js, React.js, Node.js**), improving overall application performance by **25%**.
-- Developed **15+ reusable React components**, ensuring responsive layouts and consistent UI/UX.
-- Designed and deployed **RESTful APIs**, reducing server response time by **30%**.
-- Optimized **MongoDB schemas and aggregation pipelines**, improving query performance by **40%**.
-- Collaborated with cross-functional teams using Git-based workflows and best practices.
+- Built and maintained scalable **MERN stack applications** (MongoDB, Express.js, React.js, Node.js), improving overall application performance by **25%** through optimized API integrations and database queries.
+- Developed **15+ reusable and modular React components**, ensuring responsive layouts and consistent UI/UX across application modules.
+- Designed and deployed **RESTful APIs** using Node.js and Express.js, reducing server response time by **30%** via efficient routing and middleware optimization.
+- Optimized **MongoDB schemas, indexing, and aggregation pipelines**, improving data retrieval efficiency by **40%** for large-scale datasets.
+- Collaborated with cross-functional teams while following clean code practices, Git workflows, and code reviews.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **frontend & backend projects**
-- 🌱 Learning **Next.js**
-- 👨‍💻 Portfolio: https://osamaayub.netlify.app/
-- 💬 Ask me about **React, Tailwind, JavaScript**
+- 🔭 Working on **real-world frontend & backend projects**
+- 🌱 Currently learning **Next.js**
+- 👨‍💻 Portfolio: **https://osamaayub.netlify.app/**
+- 💬 Ask me about **React.js, Tailwind CSS, JavaScript, HTML, CSS, SCSS, Bootstrap**
 - 📫 Email: **osama.ayubwebdev@gmail.com**
 - ⚡ Fun fact: **Yes, I am 😄**
 
@@ -42,21 +40,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/osamaayub9ayub" target="_blank">
-  <img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/osama-ayub8889993755979/" target="_blank">
-  <img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" />
-</a>
-<a href="https://instagram.com/usama.ayub1" target="_blank">
-  <img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" />
-</a>
-<a href="https://www.hackerrank.com/ayubosama416" target="_blank">
-  <img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" />
-</a>
-<a href="https://www.leetcode.com/samayub" target="_blank">
-  <img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" />
-</a>
+  <a href="https://twitter.com/osamaayub9ayub"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
+  <a href="https://www.linkedin.com/in/osama-ayub8889993755979/"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+  <a href="https://instagram.com/usama.ayub1"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
+  <a href="https://www.hackerrank.com/ayubosama416"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
+  <a href="https://www.leetcode.com/samayub"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 </p>
 
 ---
@@ -78,21 +66,21 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview (Stable – No Errors)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&include_all_commits=true&hide_rank=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaayub&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamaayub&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osamaayub&theme=default" />
 </p>
-
 
 ---
 
 ## 🚀 Deployment Status
 
 <p align="center">
-  <img src="https://api.netlify.com/api/v1/badges/502bb712-8911-4c91-ad22-1ad89f4c2f36/deploy-status"/>
+  <img src="https://api.netlify.com/api/v1/badges/502bb712-8911-4c91-ad22-1ad89f4c2f36/deploy-status" />
 </p>
