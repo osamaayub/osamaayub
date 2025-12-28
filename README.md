@@ -38,14 +38,7 @@
 ---
 
 ## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://twitter.com/osamaayub9ayub"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
-  <a href="https://www.linkedin.com/in/osama-ayub8889993755979/"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-  <a href="https://instagram.com/usama.ayub1"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
-  <a href="https://www.hackerrank.com/ayubosama416"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
-  <a href="https://www.leetcode.com/samayub"><img src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
-</p>
+ <p align="center"> <a href="https://twitter.com/osamaayub9ayub">Twitter</a> • <a href="https://www.linkedin.com/in/osama-ayub8889993755979/">LinkedIn</a> • <a href="https://instagram.com/usama.ayub1">Instagram</a> • <a href="https://www.hackerrank.com/ayubosama416">HackerRank</a> • <a href="https://www.leetcode.com/samayub">LeetCode</a> </p>
 
 ---
 
@@ -66,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Overview (Stable – No Errors)
+## 📊 GitHub Overview (stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaayub&theme=default" />
