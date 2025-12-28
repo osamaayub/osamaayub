@@ -81,16 +81,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&count_private=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&include_all_commits=true&hide_rank=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=github-dark" />
-</p>
 
 ---
 
