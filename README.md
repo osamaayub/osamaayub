@@ -15,7 +15,7 @@
 
 ### **Junior Software Engineer**
 **SensViz** · Full-time  
-📍 Lahore, Punjab, Pakistan · On-site  
+📍· On-site  
 🗓 **Aug 2025 – Present**
 
 - Built and maintained scalable **MERN stack applications** (MongoDB, Express.js, React.js, Node.js), improving overall application performance by **25%** through optimized API integrations and database queries.
