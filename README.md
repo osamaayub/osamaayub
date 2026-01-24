@@ -107,7 +107,7 @@
 
 <p align="center">
   <!-- Pinned repository example -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=personalPortoflio&theme=radical" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=personalPortfolio &theme=radical" alt="Pinned Repo" />
 </p>
 
 ---
