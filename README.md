@@ -44,7 +44,7 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend (JavaScript & TypeScript included)
+### Frontend 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -107,7 +107,7 @@
 
 <p align="center">
   <!-- Pinned repository example -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=portfolio&theme=radical" alt="Pinned Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=personalPortoflio&theme=radical" alt="Pinned Repo" />
 </p>
 
 ---
