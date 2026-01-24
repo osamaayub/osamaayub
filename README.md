@@ -62,7 +62,7 @@
 
 | Project | Tech Stack | Demo | GitHub |
 |---------|------------|------|--------|
-| **Portfolio Website** | React, Tailwind, Netlify | [Live](https://osamaayub.netlify.app/) | [Repo](https://github.com/osamaayub/portfolio) |
+| **Portfolio Website** | React, Tailwind, Netlify | [Live](https://personal-portfolio-two-taupe-76.vercel.app/) | [Repo](https://github.com/osamaayub/personalPortfolio) |
 | **MERN Blog App** | MongoDB, Express, React, Node | [Live](#) | [Repo](#) |
 | **E-commerce Store** | React, Node, Express, MongoDB | [Live](#) | [Repo](#) |
 
