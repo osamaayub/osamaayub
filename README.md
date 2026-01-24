@@ -105,10 +105,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <!-- Pinned repository example -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=personalPortfolio &theme=radical" alt="Pinned Repo" />
-</p>
+
 
 ---
 
