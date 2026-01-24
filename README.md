@@ -44,8 +44,10 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend (JavaScript & TypeScript included)
 <p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -57,13 +59,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Languages & Tools
+### Database Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### Other Tools
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -78,20 +84,30 @@
 | **MERN Blog App** | MongoDB, Express, React, Node | [Live](#) | [Repo](#) |
 | **E-commerce Store** | React, Node, Express, MongoDB | [Live](#) | [Repo](#) |
 
-> You can add **screenshots or GIFs** for each project to make this section visually appealing.
+> Add **screenshots or GIF previews** for each project to make this section visually engaging.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Achievements & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=radical"/>
+  <!-- GitHub stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=radical&row=1&column=5" />
+  <!-- Top languages card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- GitHub streak card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Pinned repository example -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamaayub&repo=portfolio&theme=radical" alt="Pinned Repo" />
 </p>
 
 ---
