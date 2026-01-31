@@ -26,7 +26,7 @@
 
 ### **🏢 Junior Software Engineer** | **SensViz**
 📍 **Location:** On-site  
-🗓️ **Duration:** Aug 2024 – Present  
+🗓️ **Duration:** Aug 2025 – Present  
 
 #### **Key Achievements & Responsibilities:**
 
