@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamaayub&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/osamaayub?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/osamaayub?label=Stars&style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=osamaayub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/osamaayub?label=Followers&style=flat&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/osamaayub?label=Stars&style=flat&color=yellow" alt="Stars" />
 </p>
 
 <p align="center">
@@ -81,13 +81,13 @@ const osamaAyub = {
         backend: {
             runtime: ["Node.js"],
             frameworks: ["Express.js"],
-            api: ["REST", "GraphQL"],
+            api: ["REST"],
             authentication: ["JWT", "OAuth", "Passport.js"]
         },
         databases: {
             sql: ["MySQL", "PostgreSQL"],
             nosql: ["MongoDB"],
-            orm: ["Mongoose", "Sequelize", "Prisma"]
+            orm: ["Mongoose"]
         },
         devOps: {
             versionControl: ["Git", "GitHub"],
@@ -193,7 +193,6 @@ const osamaAyub = {
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 </details>
 
@@ -205,7 +204,6 @@ const osamaAyub = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </details>
 
@@ -234,11 +232,6 @@ const osamaAyub = {
 | 🎯 Project | 💻 Tech Stack | 🌐 Live Demo | 📂 Repository |
 |:-----------|:--------------|:-------------|:--------------|
 | **🌟 Portfolio Website** | Next.js, ShadCN UI, Tailwind CSS, GitHub Actions | [🔗 View Live](https://osamaayub.netlify.app/) | [📁 Code](https://github.com/osamaayub/portfolio) |
-| **📝 MERN Blog App** | MongoDB, Express, React, Node.js, JWT | [🔗 View Live](#) | [📁 Code](#) |
-| **🛒 E-Commerce Store** | React, Redux, Node.js, Stripe API | [🔗 View Live](#) | [📁 Code](#) |
-| **✅ Task Manager** | React, TypeScript, Tailwind CSS | [🔗 View Live](#) | [📁 Code](#) |
-| **🎬 Movie Database** | React, TMDB API, Tailwind CSS | [🔗 View Live](#) | [📁 Code](#) |
-| **💬 Real-time Chat** | Socket.io, React, Express, MongoDB | [🔗 View Live](#) | [📁 Code](#) |
 
 </div>
 
@@ -246,11 +239,11 @@ const osamaAyub = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">🎨 Portfolio Website</h3>
       <br>
       <p align="center">
-        <a href="https://personal-portfolio-two-taupe-76.vercel.app/" target="_blank">
+        <a href="https://osamaayub.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Portfolio-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio Live"/>
         </a>
         <a href="https://github.com/osamaayub/portfolio" target="_blank">
@@ -268,74 +261,6 @@ const osamaAyub = {
         🚀 Deployed with CI/CD pipeline
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 MERN Blog Application</h3>
-      <br>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> MongoDB, Express.js, React.js, Node.js
-      </p>
-      <p>
-        📚 Full CRUD functionality for blog posts<br>
-        🔐 JWT-based authentication & authorization<br>
-        💬 Comment system with nested replies<br>
-        🔍 Search and filter capabilities<br>
-        📊 Admin dashboard for content management
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <br>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> React, Redux, Node.js, Stripe API
-      </p>
-      <p>
-        🛍️ Product catalog with advanced filtering<br>
-        🛒 Shopping cart with real-time updates<br>
-        💳 Secure payment integration with Stripe<br>
-        📦 Order tracking and management<br>
-        👨‍💼 Admin panel for inventory management
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 Real-time Chat App</h3>
-      <br>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Live-Demo-success?style=for-the-badge" alt="Demo"/>
-        </a>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-        </a>
-      </p>
-      <p align="center">
-        <strong>Tech:</strong> Socket.io, React, Express, MongoDB
-      </p>
-      <p>
-        💬 Real-time messaging with Socket.io<br>
-        👥 Group chat functionality<br>
-        📎 File sharing capabilities<br>
-        🟢 Online/offline status indicators<br>
-        🔔 Push notifications for new messages
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -346,14 +271,16 @@ const osamaAyub = {
 <div align="center">
   
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamaayub&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=osamaayub&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ### 📈 Overall Statistics
 
-<a href="https://github.com/osamaayub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10"/>
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
 
 ### 📊 Contribution Graph
 
@@ -390,21 +317,21 @@ const osamaAyub = {
     <td width="50%">
       <h3>🚀 What I'm Working On</h3>
       <ul>
-        <li>🔨 Building a SaaS application with Next.js 14</li>
-        <li>🎨 Creating a component library with Storybook</li>
-        <li>📱 Developing a mobile-responsive dashboard</li>
+        <li>🔨 Building real-world MERN stack projects</li>
+        <li>🎨 Creating responsive web applications</li>
+        <li>📱 Improving my portfolio website</li>
         <li>🌐 Contributing to open-source projects</li>
-        <li>✍️ Writing technical blogs on Dev.to</li>
+        <li>✍️ Learning and implementing best practices</li>
       </ul>
     </td>
     <td width="50%">
       <h3>📚 What I'm Learning</h3>
       <ul>
-        <li>🔷 TypeScript Advanced Patterns</li>
+        <li>🔷 TypeScript with React</li>
         <li>⚛️ Next.js 14 App Router & Server Components</li>
-        <li>🏗️ System Design & Microservices</li>
-        <li>🐳 Docker & Kubernetes basics</li>
-        <li>☁️ AWS Cloud Services</li>
+        <li>🏗️ System Design & Architecture Patterns</li>
+        <li>🐳 Docker basics for containerization</li>
+        <li>☁️ AWS Cloud fundamentals</li>
       </ul>
     </td>
   </tr>
@@ -541,6 +468,8 @@ I'm always interested in collaborating on:
   
 **© 2024 Osama Ayub | Made with ❤️ and ☕**
 
-![Visitor Count](https://profile-counter.glitch.me/osamaayub/count.svg)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=osamaayub&icon=0&color=0" alt="Visit Counter" />
+</p>
 
 </div>
