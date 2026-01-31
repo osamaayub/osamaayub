@@ -275,11 +275,20 @@ const osamaAyub = {
   <img src="https://streak-stats.demolab.com?user=osamaayub&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-### 📈 Overall Statistics
+### 📈 Detailed Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaayub&theme=radical" alt="Profile Details" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamaayub&theme=radical" alt="Repos per Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osamaayub&theme=radical" alt="Most Commit Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamaayub&theme=radical" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamaayub&theme=radical" alt="Productive Time" width="48%" />
 </p>
 
 ### 📊 Contribution Graph
@@ -431,7 +440,7 @@ I'm always interested in collaborating on:
 **© 2024 Osama Ayub | Made with ❤️ and ☕**
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=osamaayub&icon=0&color=0" alt="Visit Counter" />
+  <img src="https://komarev.com/ghpvc/?username=osamaayub&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 </div>
