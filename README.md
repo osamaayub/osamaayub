@@ -89,8 +89,7 @@
 ---
 
 ## 📊 GitHub Achievements & Stats
-<img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=radical" />
-
+[![Osama Ayub GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaayub)](https://github.com/osamaayub/github-readme-stats)
 
 
 
