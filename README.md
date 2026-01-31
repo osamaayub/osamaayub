@@ -89,7 +89,18 @@
 ---
 
 ## 📊 GitHub Achievements & Stats
-[![Osama Ayub GitHub stats](https://github-readme-stats.vercel.app/api?username=osamaayub)](https://github.com/osamaayub/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=radical&cache_seconds=21600" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=osamaayub&theme=radical" />
+</p>
+
 
 
 
