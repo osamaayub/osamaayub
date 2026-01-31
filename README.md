@@ -266,14 +266,7 @@ const osamaAyub = {
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  
-### 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamaayub&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
 
 ### 📈 Detailed Stats
 
