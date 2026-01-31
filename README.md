@@ -127,7 +127,7 @@ const osamaAyub = {
     
     reachOut: {
         email: "osama.ayubwebdev@gmail.com",
-        portfolio: "https://osamaayub.netlify.app"
+        portfolio: "https://personal-portfolio-two-taupe-76.vercel.app"
     }
 };
 ```
@@ -157,7 +157,7 @@ const osamaAyub = {
   <a href="https://www.leetcode.com/samayub" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&style=flat-square" alt="LeetCode" height="30"/>
   </a>
-  <a href="https://osamaayub.netlify.app/" target="_blank">
+  <a href="https://personal-portfolio-two-taupe-76.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&style=flat-square" alt="Portfolio" height="30"/>
   </a>
 </p>
@@ -231,7 +231,7 @@ const osamaAyub = {
 
 | 🎯 Project | 💻 Tech Stack | 🌐 Live Demo | 📂 Repository |
 |:-----------|:--------------|:-------------|:--------------|
-| **🌟 Portfolio Website** | Next.js, ShadCN UI, Tailwind CSS, GitHub Actions | [🔗 View Live](https://osamaayub.netlify.app/) | [📁 Code](https://github.com/osamaayub/portfolio) |
+| **🌟 Portfolio Website** | Next.js, ShadCN UI, Tailwind CSS, GitHub Actions | [🔗 View Live](https://personal-portfolio-two-taupe-76.vercel.app/) | [📁 Code](https://github.com/osamaayub/portfolio) |
 
 </div>
 
@@ -243,7 +243,7 @@ const osamaAyub = {
       <h3 align="center">🎨 Portfolio Website</h3>
       <br>
       <p align="center">
-        <a href="https://osamaayub.netlify.app/" target="_blank">
+        <a href="https://personal-portfolio-two-taupe-76.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live-Portfolio-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio Live"/>
         </a>
         <a href="https://github.com/osamaayub/portfolio" target="_blank">
@@ -272,39 +272,21 @@ const osamaAyub = {
   
 ### 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=osamaayub&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=osamaayub&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ### 📈 Overall Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ### 📊 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamaayub&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=radical&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-### 📊 Detailed Stats
-
-<details>
-<summary><b>📉 More GitHub Metrics</b></summary>
-<br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaayub&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osamaayub&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=osamaayub&theme=radical)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osamaayub&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=osamaayub&theme=radical)
-
-</details>
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=osamaayub&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 </div>
 
@@ -411,31 +393,11 @@ I'm always interested in collaborating on:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/osamaayub/osamaayub/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📈 Profile Summary
-
-<div align="center">
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osamaayub&theme=radical)
-
-</div>
-
----
-
 ## 🚀 Deployment Status
 
 <p align="center">
-  <a href="https://osamaayub.netlify.app/">
-    <img src="https://api.netlify.com/api/v1/badges/502bb712-8911-4c91-ad22-1ad89f4c2f36/deploy-status" alt="Netlify Deploy Status" />
+  <a href="https://personal-portfolio-two-taupe-76.vercel.app/">
+    <img src="https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel Deployment" />
   </a>
 </p>
 
@@ -454,7 +416,7 @@ I'm always interested in collaborating on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osama-ayub8889993755979/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:osama.ayubwebdev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify)](https://osamaayub.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify)](https://personal-portfolio-two-taupe-76.vercel.app/)
 
 </div>
 
