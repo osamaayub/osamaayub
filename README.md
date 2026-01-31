@@ -89,17 +89,8 @@
 ---
 
 ## 📊 GitHub Achievements & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=radical&cache_seconds=21600" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=osamaayub&theme=radical" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=radical&cache_seconds=21600" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=osamaayub&theme=radical" />
-</p>
 
 
 
