@@ -7,7 +7,7 @@
 <a href="https://personal-portfolio-two-taupe-76.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.leetcode.com/samayub"><img src="https://img.shields.io/badge/LeetCode-0A2540?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+production+MERN+%2F+Next.js+applications;Cut+navigation+complaints+40%25+for+500%2B+users;Reduced+API+response+time+by+40%25;Open+to+full-stack+opportunities" />
 
@@ -17,18 +17,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## About
+## About Me
 
 <img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-Software Engineer with **1+ year** of experience building and shipping production React, Next.js, and Node.js applications across two companies, plus a MERN internship. I own features end-to-end — architecting frontend components and REST APIs, optimizing performance, and integrating authentication and access control — and work well in Agile teams that value clean, testable code.
+I'm a Software Engineer with **1+ year** of experience shipping production React, Next.js, and Node.js applications, plus a MERN-stack internship before that. I work end-to-end — architecting frontend components and REST APIs, optimizing performance, and integrating authentication and access control — on Agile teams that care about clean, testable code.
 
-```
-const osama = {
+```ts
+const osama: Engineer = {
   role: "Software Engineer @ SensViz",
   stack: ["React", "Next.js", "Node.js", "TypeScript", "MongoDB"],
   focus: ["Performance", "Clean APIs", "Auth & Access Control"],
-  status: "Open to full-stack opportunities 🚀"
+  currentlyLearning: ["System Design", "Next.js App Router patterns"],
+  status: "Open to full-stack opportunities 🚀",
 };
 ```
 
@@ -36,56 +37,46 @@ const osama = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## Experience
-
-<table>
-<tr><td>
+## 💼 Experience
 
 ### 🏢 Software Engineer — SensViz
 **Lahore, PK** &nbsp;|&nbsp; *Aug 2025 – Jul 2026*
 
-- Led a TypeScript redesign of the Settings page and Sidebar for 500+ users, reducing navigation complaints by **40%** across 2 user roles
-- Streamlined category-switching logic with React Hooks, cutting page refresh time by **30%** and eliminating unnecessary re-renders
-- Built a sortable, filterable Test Library with live search, reducing data lookup time by **50%**
+- Led a TypeScript redesign of the Settings page and Sidebar for 500+ users, cutting navigation complaints **40%** across 2 user roles
+- Streamlined category-switching logic with React Hooks, cutting page refresh time **30%** and eliminating unnecessary re-renders
+- Built a sortable, filterable Test Library with live search, cutting data lookup time **50%**
 - Introduced structured code reviews in two-week sprints, driving a **20%** reduction in post-release defects across 4 releases
-
-</td></tr>
-<tr><td>
 
 ### 🏢 Associate Software Engineer — Cogilent Solutions
 **Islamabad, PK** &nbsp;|&nbsp; *Feb 2025 – Jun 2025*
 
-- Architected a Next.js revamp of the BrightSpyre portal, growing average session duration by **20%** among 1,000+ monthly active users
-- Integrated Clerk role-based authentication, reducing unauthorized access attempts by **30%** within 4 weeks
-- Reduced frontend bundle size by **25%** through code-splitting, lazy loading, and memoization
+- Architected a Next.js revamp of the BrightSpyre portal, growing average session duration **20%** among 1,000+ monthly active users
+- Integrated Clerk role-based authentication, cutting unauthorized access attempts **30%** within 4 weeks
+- Reduced frontend bundle size **25%** through code-splitting, lazy loading, and memoization
 
-</td></tr>
-<tr><td>
-
-### 🏢 MERN Stack Developer (Intern) — IIFATECH
+### 🏢 MERN Stack Developer — IIFATECH *(Intern)*
 **Lahore, PK** &nbsp;|&nbsp; *Aug 2024 – Oct 2024*
 
 - Built and deployed a responsive full-stack job board in 8 weeks using React, Node.js, Express.js, and MongoDB
 - Engineered JWT authentication and validated REST APIs supporting 10+ concurrent users at zero downtime
 
-</td></tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## Projects
+## 🚀 Projects
 
 <table>
-<tr><td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 Equigenix
 *MERN Stack · TypeScript · React Hooks*
 
-- Paginated data tables for 500+ records with multi-field filtering, cutting lookup time by **60%**
-- Rebuilt the REST API layer and added MongoDB indexing, cutting response time by **40%**
+- Paginated data tables for 500+ records with multi-field filtering, cutting lookup time **60%**
+- Rebuilt the REST API layer and added MongoDB indexing, cutting response time **40%**
 - Real-time invite status indicators, removing 3 manual steps for 100+ users
 
-</td><td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
 ### 🎯 Hair Transplant Lead Management System
 *MERN Stack · Tailwind CSS*
@@ -94,18 +85,23 @@ const osama = {
 - Fully responsive UI across 5 Tailwind breakpoints, 95%+ device coverage
 - Fixed a critical lead-creation bug within 24 hours, restoring full capacity for 30+ users
 
-</td></tr>
-<tr><td colspan="2">
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ### 🎯 [Portfolio Website](https://personal-portfolio-two-taupe-76.vercel.app/)
-*Next.js 14 · ShadCN UI · Tailwind CSS* — Responsive personal site with a CI/CD pipeline and a 95+ Lighthouse score · [Source](https://github.com/osamaayub/portfolio)
+*Next.js 14 · ShadCN UI · Tailwind CSS*
 
-</td></tr>
+Responsive personal site with a CI/CD pipeline and a 95+ Lighthouse score · [Source Code →](https://github.com/osamaayub/portfolio)
+
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 <div align="center">
 
@@ -115,7 +111,7 @@ const osama = {
 
 <br>
 
-| | |
+| Category | Stack |
 |---|---|
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Frontend** | React.js, Next.js, Redux Toolkit, React Hooks, Tailwind CSS, Material UI, Bootstrap |
@@ -125,7 +121,7 @@ const osama = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -138,24 +134,31 @@ const osama = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=osamaayub&hide_border=true&area=true&color=0E75B6&line=0A2540" width="90%" />
 
-<!-- snake animation: enable via the GitHub Action described below, then uncomment -->
+<!-- Snake contribution animation: enable the GitHub Action below, then uncomment -->
 <!-- <img src="https://raw.githubusercontent.com/osamaayub/osamaayub/output/github-contribution-grid-snake.svg" width="90%" /> -->
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
-## Education
+## 🎓 Education
 
 **BS, Computer Science** — University of Central Punjab, Lahore, PK
 *Oct 2018 – Feb 2023*
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E75B6,100:0A2540&height=3&width=100%25" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E75B6&height=120&section=footer"/>
+### 📫 Let's Connect
 
-📫 <a href="mailto:osama.ayubwebdev@gmail.com">osama.ayubwebdev@gmail.com</a>
+I'm open to full-stack roles and interesting collaborations — feel free to reach out.
+
+<a href="mailto:osama.ayubwebdev@gmail.com"><img src="https://img.shields.io/badge/Email-0A2540?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/osama-ayub8889993755979/"><img src="https://img.shields.io/badge/LinkedIn-0A2540?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0E75B6&height=120&section=footer"/>
 
 </div>
