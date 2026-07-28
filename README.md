@@ -248,11 +248,16 @@ Personal portfolio site built to showcase work through an interactive, animated 
 ## 📈 GitHub Engagement & Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=osamaayub&theme=tokyonight&hide_border=true"/>
 </div>
+
+> ⚠️ **If these still don't render:** the public `github-readme-stats.vercel.app` instance is a free shared service that's frequently rate-limited or down (this is a [known, ongoing issue](https://github.com/anuraghazra/github-readme-stats/issues/4680) affecting many users, not specific to this profile). Options, from easiest to most reliable:
+> 1. **Wait and refresh** — GitHub caches the raw README, so it may just need a re-fetch once the service recovers.
+> 2. **Deploy your own free instance** on Vercel by forking [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and swapping the URL above for your own `*.vercel.app` domain — removes the shared rate limit entirely.
+> 3. **Generate static SVGs via GitHub Actions** instead of a live API call — more setup, but never goes down since it's not dependent on a third-party server at page-load time.
 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0E75B6,100:0A2540&height=6" />
