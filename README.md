@@ -250,14 +250,6 @@ Personal portfolio site built to showcase work through an interactive, animated 
 <div align="center">
 <img height="165" src="./profile/stats.svg"/>
 <img height="165" src="./profile/top-langs.svg"/>
-<br>
-<img height="165" src="./profile/pin-equigenix.svg"/>
-<br>
-<img src="https://streak-stats.demolab.com/?user=osamaayub&theme=tokyonight&hide_border=true"/>
-</div>
-
-<br>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:0E75B6,100:0A2540&height=6" />
 
 ## 📬 Connect & Hire
 
