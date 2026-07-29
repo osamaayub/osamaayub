@@ -31,8 +31,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=osamaayub&repo=Equigenix&theme=tokyonight&hide_border=true
-          path: profile/pin-equigenix.svg
+          options: username=osamaayub&repo=JobLane&theme=tokyonight&hide_border=true
+          path: profile/pin-joblane.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
