@@ -39,7 +39,7 @@
 <tr>
 <td width="58%" valign="top">
 
-I'm a **Software Engineer** with **1+ years of experience** shipping production **React, Next.js, and Node.js** applications across two companies — **SensViz** and **Cogilent Solutions** — plus a MERN stack internship at **IIFATECH**. I own features end-to-end: frontend components, REST APIs, database schemas, auth, and performance.
+I'm a **Software Engineer** with **2 years of experience** shipping production **React, Next.js, and Node.js** applications across two companies — **SensViz** and **Cogilent Solutions** — plus a MERN stack internship at **IIFATECH**. I own features end-to-end: frontend components, REST APIs, database schemas, auth, and performance.
 
 **What I bring:**
 - 🔩 Full-stack ownership — from schema design to deployment
@@ -112,7 +112,7 @@ const osama: EngineerProfile = {
 - **Stack:** React · TypeScript · Next.js · REST APIs
 
 ### **Associate Software Engineer** · Cogilent Solutions
-📍 Islamabad, PK  ·  🗓️ Feb 2025 – Jun 2025
+📍 Islamabad, PK  ·  🗓️ Feb 2025 – Jan 2026
 
 - Rebuilt the **BrightSpyre portal** on Next.js, growing average session duration by **20%** among **1,000+ monthly active users**
 - Integrated **Clerk role-based authentication**, reducing unauthorized access attempts by **30%** within 4 weeks
