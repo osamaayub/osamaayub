@@ -23,16 +23,29 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Languages%20%28all%20time%29
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate recent languages card (last 12 months)
+        run: node .github/scripts/recent-langs.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: ${{ github.repository_owner }}
+
+      - name: Generate pin cards
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=osamaayub&repo=JobLane&theme=tokyonight&hide_border=true
-          path: profile/pin-joblane.svg
+          options: username=osamaayub&repo=pulse-dashboard&theme=tokyonight&hide_border=true
+          path: profile/pin-pulse.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=osamaayub&repo=pdf-chat-ai&theme=tokyonight&hide_border=true
+          path: profile/pin-pdf-chat.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
