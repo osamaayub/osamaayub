@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="202" viewBox="0 0 350 202" role="img" aria-labelledby="t">
+<title id="t">Languages in repos updated in the last 12 months</title>
+<style>.title{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#70a5fd}.lang{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#38bdae}.note{font:400 11px 'Segoe UI',Ubuntu,Sans-Serif;fill:#9aa5ce}</style>
+<rect x="0.5" y="0.5" rx="4.5" width="349" height="201" fill="#1a1b27"/>
+<text x="25" y="35" class="title">Languages, last 12 months</text>
+<clipPath id="c"><rect x="25" y="58" width="300" height="8" rx="4"/></clipPath><g clip-path="url(#c)"><rect x="25.00" y="58" width="175.53" height="8" fill="#3178c6"/><rect x="200.53" y="58" width="67.66" height="8" fill="#f1e05a"/><rect x="268.19" y="58" width="20.50" height="8" fill="#e34c26"/><rect x="288.69" y="58" width="15.49" height="8" fill="#663399"/><rect x="304.18" y="58" width="15.04" height="8" fill="#4F5D95"/><rect x="319.22" y="58" width="4.21" height="8" fill="#c1d026"/><rect x="323.43" y="58" width="1.57" height="8" fill="#6b7280"/></g>
+<circle cx="30" cy="88" r="5" fill="#3178c6"/><text x="41" y="92" class="lang">TypeScript 58.5%</text><circle cx="190" cy="88" r="5" fill="#f1e05a"/><text x="201" y="92" class="lang">JavaScript 22.6%</text><circle cx="30" cy="113" r="5" fill="#e34c26"/><text x="41" y="117" class="lang">HTML 6.8%</text><circle cx="190" cy="113" r="5" fill="#663399"/><text x="201" y="117" class="lang">CSS 5.2%</text><circle cx="30" cy="138" r="5" fill="#4F5D95"/><text x="41" y="142" class="lang">PHP 5.0%</text><circle cx="190" cy="138" r="5" fill="#c1d026"/><text x="201" y="142" class="lang">Twig 1.4%</text><circle cx="30" cy="163" r="5" fill="#6b7280"/><text x="41" y="167" class="lang">Other 0.5%</text>
+<text x="25" y="194" class="note">31 repos with pushes since 2025-11-07</text>
+</svg>
