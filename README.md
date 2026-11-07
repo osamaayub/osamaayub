@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=65&lines=Building+Modern+Full-Stack+Applications;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express+%7C+MongoDB;Integrating+AI+into+Web+Applications;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=65&lines=Full-Stack+Developer+%2B+AI+Integration;TypeScript+%7C+React+%7C+Next.js+16;Node.js+%7C+PostgreSQL+%7C+Drizzle+%7C+MongoDB;AI+Apps%3A+RAG%2C+Streaming+Chat%2C+OpenAI+%26+Claude;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -31,7 +31,7 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb&theme=dark" alt="Core technology stack" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,postgres,mongodb,tailwind&theme=dark" alt="Core stack: TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, Tailwind CSS" />
 
 <br/><br/>
 
@@ -43,18 +43,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** focused on building scalable, maintainable web applications and AI-powered solutions. I work across frontend and backend development, from responsive interfaces to REST APIs, database design, authentication, and deployment.
+I'm a **Full-Stack Software Engineer** who builds web applications with **TypeScript, Next.js and Node.js**, and adds practical AI features to them: chat with your documents (RAG), streaming assistants and structured AI output. I work across the stack, from responsive interfaces to APIs, PostgreSQL and MongoDB databases, authentication, testing and deployment.
 
 I enjoy turning ideas into practical software with clean code, thoughtful architecture, and a strong focus on user experience.
 
 - 🌍 **Availability:** Open to remote Full-Stack Software Engineer opportunities worldwide
-- ⚛️ **Frontend:** React, Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-- ⚙️ **Backend:** Node.js, Express.js, REST APIs
-- 🗄️ **Databases:** MongoDB, Mongoose, MySQL
-- 🤖 **AI Integration:** OpenAI API, Google Gemini API, Vapi AI
-- 🔐 **Authentication:** JWT, RBAC, Clerk, NextAuth
-- ☁️ **Cloud & Deployment:** AWS, Amazon S3, Vercel
-- 🧰 **Tools:** Git, GitHub, Postman, Docker
+- ⚛️ **Frontend:** TypeScript, React 19, Next.js 16 (App Router, Server Components, Server Actions), Tailwind CSS, Redux Toolkit
+- ⚙️ **Backend:** Node.js, Express.js, REST APIs, Next.js Route Handlers
+- 🗄️ **Databases:** PostgreSQL, Drizzle ORM, MongoDB, Mongoose, MySQL
+- 🤖 **AI Integration:** RAG with citations, OpenAI API, Anthropic Claude API, Vercel AI SDK, Google Gemini API, Vapi AI
+- 🔐 **Authentication:** Auth.js (GitHub and Google sign-in), JWT, RBAC, Clerk
+- 🧪 **Quality:** Zod validation, Vitest, GitHub Actions CI
+- ☁️ **Cloud & Deployment:** Vercel, Netlify, AWS S3, Docker
+- 🧰 **Tools:** Git, GitHub, Postman, AI coding agents (Claude Code)
 - 🎯 **Engineering Focus:** Clean code, API design, performance, and maintainable architecture
 
 ---
@@ -69,64 +70,18 @@ const osama = {
   availability: "Open to Remote Opportunities",
   portfolio: "https://osama-ayubpersonal.vercel.app/",
 
-  languages: [
-    "TypeScript",
-    "JavaScript",
-    "HTML",
-    "CSS",
-  ],
+  languages: ["TypeScript", "JavaScript", "SQL", "HTML", "CSS"],
 
-  frontend: [
-    "React",
-    "Next.js",
-    "Redux Toolkit",
-    "Tailwind CSS",
-    "Material UI",
-    "Bootstrap",
-  ],
+  frontend: ["React 19", "Next.js 16", "Server Actions", "Tailwind CSS", "Redux Toolkit"],
+  backend: ["Node.js", "Express.js", "REST APIs", "Route Handlers"],
+  databases: ["PostgreSQL", "Drizzle ORM", "MongoDB", "Mongoose", "MySQL"],
+  authentication: ["Auth.js", "JWT", "RBAC", "Clerk"],
+  ai: ["RAG", "OpenAI API", "Claude API", "Vercel AI SDK", "Gemini API", "Vapi AI"],
+  quality: ["Zod", "Vitest", "GitHub Actions"],
+  cloudAndTools: ["Vercel", "Netlify", "AWS S3", "Docker", "Git", "Postman"],
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST APIs",
-  ],
-
-  databases: [
-    "MongoDB",
-    "Mongoose",
-    "MySQL",
-  ],
-
-  authentication: [
-    "JWT",
-    "RBAC",
-    "Clerk",
-    "NextAuth",
-  ],
-
-  ai: [
-    "OpenAI API",
-    "Google Gemini API",
-    "Vapi AI",
-  ],
-
-  cloudAndTools: [
-    "AWS",
-    "Amazon S3",
-    "Vercel",
-    "Git",
-    "GitHub",
-    "Postman",
-    "Docker",
-  ],
-
-  interests: [
-    "Full-Stack Development",
-    "AI-Powered Applications",
-    "Backend Engineering",
-    "System Design",
-    "Performance Optimization",
-  ],
+  currentlyLearning: ["Agentic engineering with AI coding agents"],
+  nextUp: ["Python + FastAPI", "LangGraph agents", "pgvector RAG", "LLM evals"],
 };
 ```
 
@@ -155,24 +110,134 @@ const osama = {
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="MongoDB and MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="PostgreSQL, MongoDB and MySQL" />
 </p>
 
 ### Cloud, Deployment & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,postman,docker&theme=dark" alt="AWS, Vercel, Git, GitHub, Postman, Docker" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,aws,docker,githubactions,git,github,postman&theme=dark" alt="Vercel, Netlify, AWS, Docker, GitHub Actions, Git, GitHub, Postman" />
 </p>
 
-**Additional technologies:** OpenAI API · Google Gemini API · Vapi AI · Mongoose · JWT · RBAC · Clerk · NextAuth · Zod
+### AI Integration
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-with_citations-0F766E?style=for-the-badge" alt="RAG with citations" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude API" />
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  <img src="https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini API" />
+</p>
+
+**Also:** Drizzle ORM · Auth.js · Zod · Vitest · Mongoose · JWT · RBAC · Clerk · Vapi AI
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01. DevFlow
+### 01. Pulse: Admin Dashboard on Real PostgreSQL
 
-**A developer-focused Q&A platform built with modern Next.js architecture.**
+**An admin dashboard for an online store: KPIs, charts, orders, customers and products.**
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Drizzle ORM` `Server Actions` `Zod` `Vitest` `Netlify`
+
+- KPIs compared with the previous period, revenue charts and product performance.
+- Orders you can search, filter, export to CSV, ship and refund, all in SQL on the server.
+- Customers with lifetime value and full order history.
+- Real PostgreSQL on Netlify, a health check, and a demo store that resets itself every day.
+
+<p>
+  <a href="https://github.com/osamaayub/pulse-dashboard">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pulse source code" />
+  </a>
+  <a href="https://pulse-dashboard-nextjs.netlify.app">
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=netlify&logoColor=white" alt="Pulse live demo" />
+  </a>
+</p>
+
+---
+
+### 02. DocChat: Chat With Your PDF (RAG)
+
+**Upload a PDF, ask a question, and get a short answer with the page it came from.**
+
+`Next.js 16` `TypeScript` `RAG` `OpenAI` `Claude API` `Zod`
+
+- Retrieval-augmented generation: the answer comes only from the document.
+- Every answer cites its page, and it says "I don't know" when the answer isn't there.
+- Works with OpenAI or Anthropic Claude.
+
+<p>
+  <a href="https://github.com/osamaayub/pdf-chat-ai">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="DocChat source code" />
+  </a>
+  <a href="https://pdf-chat-ai-neon.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="DocChat live demo" />
+  </a>
+</p>
+
+---
+
+### 03. AI Support Chatbot
+
+**A streaming AI support chatbot with Next.js 16 and the Vercel AI SDK.**
+
+`Next.js 16` `TypeScript` `Vercel AI SDK` `OpenAI` `GitHub Actions`
+
+- Answers stream in word by word.
+- Runs in demo mode without an API key, so anyone can try it.
+- Feature-first architecture, tests and CI.
+
+<p>
+  <a href="https://github.com/osamaayub/nextjs-ai-chatbot">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="AI chatbot source code" />
+  </a>
+  <a href="https://nextjs-ai-chatbot-three-kappa-qi5cfa7xvl.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="AI chatbot live demo" />
+  </a>
+</p>
+
+---
+
+### 04. BriefAI: AI SaaS Starter
+
+**Turns messy meeting notes into a short summary and a clear list of action items.**
+
+`Next.js 16` `TypeScript` `Drizzle ORM` `OpenAI structured output` `Server Actions`
+
+- Structured AI output validated with Zod.
+- Usage limits enforced on the server with a database transaction.
+
+<p>
+  <a href="https://github.com/osamaayub/briefai">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="BriefAI source code" />
+  </a>
+</p>
+
+---
+
+### 05. WebDev Path: Free Learning Platform
+
+**A free 24-week web development course platform.**
+
+`Next.js 16` `TypeScript` `PostgreSQL` `Auth.js`
+
+- Sign in with GitHub or Google, saved progress and quizzes graded on the server.
+
+<p>
+  <a href="https://github.com/osamaayub/webdev-path-lms">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="WebDev Path source code" />
+  </a>
+  <a href="https://webdev-path-lms.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="WebDev Path live demo" />
+  </a>
+</p>
+
+---
+
+### 06. DevFlow
+
+**A developer-focused Q&A platform built with modern Next.js architecture** (built following the JS Mastery course).
 
 `Next.js` `React` `TypeScript` `MongoDB` `NextAuth` `Tailwind CSS` `Zod`
 
@@ -194,7 +259,7 @@ const osama = {
 
 ---
 
-### 02. Equigenix / EquiJudge
+### 07. Equigenix / EquiJudge
 
 **A platform for Arabian horse judge training, testing, invitations, and performance evaluation.**
 
@@ -216,67 +281,14 @@ const osama = {
 
 ---
 
-### 03. AI Interview Preparation
+### More Projects
 
-**An AI-powered interview preparation application for practicing technical interviews.**
-
-`Next.js` `TypeScript` `Firebase` `Vapi AI` `Google Gemini` `Tailwind CSS`
-
-- AI-powered interview conversations.
-- Voice-based interview experience.
-- Authentication and data storage with Firebase.
-- Interview history and feedback workflows.
-- Responsive user interfaces.
-
----
-
-### 04. JobLane
-
-**A job portal connecting job seekers with employers.**
-
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
-
-- Job posting and management workflows.
-- Job-seeker and employer experiences.
-- Authentication and authorization.
-- REST API integration.
-- Responsive frontend components.
-
----
-
-### 05. Hair Transplant Lead Management System
-
-**A management application for clinic leads, appointments, treatments, and inventory.**
-
-`React` `Node.js` `Express` `MongoDB`
-
-- Patient and lead management.
-- Appointment scheduling.
-- Treatment tracking and inventory workflows.
-- Email verification and password-reset features.
-- Dashboard interfaces for managing records.
-
----
-
-### 06. 3D Developer Portfolio
-
-**An interactive portfolio featuring 3D visuals and animated interface elements.**
-
-`React` `TypeScript` `Three.js` `Framer Motion` `Tailwind CSS`
-
-- Interactive 3D scenes.
-- Animated UI elements.
-- Responsive layouts.
-- Project showcase and portfolio sections.
-
-<p>
-  <a href="https://osamaayubportfoliowebsite.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="3D portfolio demo" />
-  </a>
-  <a href="https://github.com/osamaayub/3D-Developer-Portfolio">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="3D portfolio source code" />
-  </a>
-</p>
+| Project | What it is | Stack |
+|---|---|---|
+| AI Interview Preparation | Voice-based AI interview practice with feedback | Next.js, TypeScript, Firebase, Vapi AI, Gemini |
+| JobLane | Job portal for job seekers and employers | React, Node.js, Express, MongoDB |
+| Clinic Lead Management | Leads, appointments, treatments and inventory | React, Node.js, Express, MongoDB |
+| [3D Developer Portfolio](https://github.com/osamaayub/3D-Developer-Portfolio) | Interactive portfolio with 3D scenes ([live](https://osamaayubportfoliowebsite.netlify.app/)) | React, TypeScript, Three.js, Framer Motion |
 
 ---
 
@@ -334,17 +346,15 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 | Area | Technologies |
 |---|---|
-| Frontend | React, Next.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap |
-| Languages | TypeScript, JavaScript, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases | MongoDB, Mongoose, MySQL |
-| Authentication | JWT, RBAC, Clerk, NextAuth |
-| AI Integration | OpenAI API, Google Gemini API, Vapi AI |
-| Cloud & Deployment | AWS, Amazon S3, Vercel |
-| API Testing | Postman |
-| Version Control | Git, GitHub |
-| DevOps | Docker |
-| Validation | Zod |
+| Languages | TypeScript, JavaScript, SQL, HTML, CSS |
+| Frontend | React 19, Next.js 16, Tailwind CSS, Redux Toolkit, Material UI |
+| Backend | Node.js, Express.js, REST APIs, Server Actions |
+| Databases | PostgreSQL, Drizzle ORM, MongoDB, Mongoose, MySQL |
+| Authentication | Auth.js, JWT, RBAC, Clerk |
+| AI Integration | RAG, OpenAI API, Claude API, Vercel AI SDK, Gemini API, Vapi AI |
+| Quality | Zod, Vitest, GitHub Actions |
+| Cloud & Deployment | Vercel, Netlify, AWS S3, Docker |
+| Tools | Git, GitHub, Postman, AI coding agents |
 
 ---
 
@@ -352,13 +362,18 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=osamaayub&show_icons=true&hide_border=true&bg_color=080B1A&title_color=67E8F9&icon_color=818CF8&text_color=C9D1D9&ring_color=4F46E5" alt="GitHub statistics" />
+<img height="180" src="./profile/stats.svg" alt="GitHub statistics" />
+<img height="180" src="./profile/recent-langs.svg" alt="Languages in repos updated in the last 12 months" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaayub&layout=compact&hide_border=true&bg_color=080B1A&title_color=67E8F9&text_color=C9D1D9" alt="Most used languages" />
+<br/>
+
+<img height="165" src="./profile/top-langs.svg" alt="Languages across all repos" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=osamaayub&hide_border=true&background=080B1A&ring=4F46E5&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=osamaayub&hide_border=true&background=080B1A&ring=4F46E5&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+
+<sub>Cards update every day. "Last 12 months" shows what I write now; "all repos" includes older HTML and JavaScript projects.</sub>
 
 </div>
 
@@ -368,15 +383,12 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=700&height=50&lines=Advanced+Next.js+Patterns;NestJS+and+Backend+Architecture;System+Design+Fundamentals;Docker+and+CI%2FCD;Practical+AI+Application+Development" alt="Current learning goals" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=A5B4FC&center=true&vCenter=true&width=700&height=50&lines=Agentic+Engineering+with+AI+Coding+Agents;Next%3A+Python+%2B+FastAPI;Next%3A+LangGraph+Agents+and+pgvector+RAG" alt="Current learning goals" />
 
 </div>
 
-- Advanced Next.js and TypeScript patterns.
-- NestJS and backend architecture.
-- System design and scalable APIs.
-- Docker, CI/CD, and deployment workflows.
-- Practical LLM integration in web applications.
+- **Now:** agentic engineering with AI coding agents: context engineering, MCP, tools, planning, testing and code review (JS Mastery).
+- **Next:** Python and FastAPI, LangGraph agents with tool calling, RAG on PostgreSQL with pgvector, and evals for AI answers.
 
 ---
 
