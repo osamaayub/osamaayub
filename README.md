@@ -9,11 +9,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🌍-OPEN%20TO%20REMOTE%20OPPORTUNITIES-16A34A?style=for-the-badge&labelColor=111827" alt="Open to Remote Opportunities" />
+<img src="https://img.shields.io/badge/🌍-OPEN%20TO%20REMOTE%20ROLES%20%26%20FREELANCE%20PROJECTS-16A34A?style=for-the-badge&labelColor=111827" alt="Open to remote roles and freelance projects" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=65&lines=Full-Stack+Developer+%2B+AI+Integration;TypeScript+%7C+React+%7C+Next.js+16;Node.js+%7C+PostgreSQL+%7C+Drizzle+%7C+MongoDB;AI+Apps%3A+RAG%2C+Streaming+Chat%2C+OpenAI+%26+Claude;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&height=65&lines=Full-Stack+Developer+%2B+AI+Integration;TypeScript+%7C+React+%7C+Next.js+16;Node.js+%7C+PostgreSQL+%7C+Drizzle+%7C+MongoDB;AI+Apps%3A+RAG%2C+Streaming+Chat%2C+OpenAI+%26+Claude;Open+to+Remote+Roles+%26+Freelance+Projects+%F0%9F%9A%80" alt="Animated introduction" />
 
 <br/><br/>
 
@@ -31,6 +31,10 @@
 &nbsp;
 <a href="https://www.upwork.com/freelancers/~01c0c3cf471b66a427">
   <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@osamaayubdev">
+  <img src="https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube tutorials" />
 </a>
 
 <br/><br/>
@@ -51,7 +55,7 @@ I'm a **Full-Stack Software Engineer** who builds web applications with **TypeSc
 
 I enjoy turning ideas into practical software with clean code, thoughtful architecture, and a strong focus on user experience.
 
-- 🌍 **Availability:** Open to remote Full-Stack Software Engineer opportunities worldwide
+- 🌍 **Availability:** Open to remote full-stack roles worldwide and to freelance projects (fixed-price packages on Upwork)
 - ⚛️ **Frontend:** TypeScript, React 19, Next.js 16 (App Router, Server Components, Server Actions), Tailwind CSS, Redux Toolkit
 - ⚙️ **Backend:** Node.js, Express.js, REST APIs, Next.js Route Handlers
 - 🗄️ **Databases:** PostgreSQL, Drizzle ORM, MongoDB, Mongoose, MySQL
@@ -86,7 +90,7 @@ const osama = {
   name: "Osama Ayub",
   role: "Full-Stack Software Engineer",
   location: "Lahore, Pakistan",
-  availability: "Open to Remote Opportunities",
+  availability: ["Remote roles", "Freelance projects"],
   portfolio: "https://osama-ayubpersonal.vercel.app/",
 
   languages: ["TypeScript", "JavaScript", "SQL", "HTML", "CSS"],
@@ -313,9 +317,9 @@ const osama = {
 
 ## 💼 Professional Experience
 
-### Software Engineer — SensViz
+### Associate Software Engineer at SensViz
 
-**July 2025 – July 2026 · Lahore, Pakistan**
+**August 2025 to July 2026 · Lahore, Pakistan**
 
 Worked on full-stack web applications using React, TypeScript, Node.js, Express, and MongoDB.
 
@@ -332,9 +336,9 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 ---
 
-### Associate Software Engineer — Cogilent Solutions
+### Software Engineer at Cogilent Solutions
 
-**February 2025 – January 2026 · Islamabad, Pakistan**
+**February 2025 to January 2026 · Islamabad, Pakistan**
 
 - Developed web application features using React and Next.js.
 - Built responsive interfaces and dashboard components.
@@ -347,9 +351,9 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 ---
 
-### MERN Stack Developer Intern — IIFATECH
+### Full-Stack Developer Intern at IIFA TECH
 
-**August 2024 – October 2024**
+**August 2024 to October 2024**
 
 - Developed a full-stack job board using the MERN stack.
 - Built REST APIs using Node.js and Express.
@@ -358,6 +362,18 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 - Created responsive React interfaces.
 
 **Technologies:** `React` `Node.js` `Express` `MongoDB` `JWT`
+
+---
+
+### Frontend Developer Intern at Narsun Studios
+
+**January 2024 to April 2024 · Lahore, Pakistan**
+
+- Built responsive React interfaces in a real product team.
+- Turned designs into reusable components.
+- Worked with Git-based reviews and team workflows.
+
+**Technologies:** `React` `JavaScript` `CSS` `Git`
 
 ---
 
@@ -429,7 +445,7 @@ Worked on full-stack web applications using React, TypeScript, Node.js, Express,
 
 <br/><br/>
 
-**I'm open to remote Full-Stack Software Engineer opportunities worldwide.**
+**I'm open to remote full-stack roles worldwide, and I take freelance projects at a fixed price.**
 
 Interested in building SaaS products, developer tools, AI-powered applications, dashboards, and scalable web platforms.
 
@@ -445,6 +461,10 @@ Interested in building SaaS products, developer tools, AI-powered applications, 
 &nbsp;
 <a href="https://github.com/osamaayub">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~01c0c3cf471b66a427">
+  <img src="https://img.shields.io/badge/Hire_Me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
 </a>
 
 </div>
