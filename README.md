@@ -28,6 +28,10 @@
 <a href="https://github.com/osamaayub">
   <img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+&nbsp;
+<a href="https://www.upwork.com/freelancers/~01c0c3cf471b66a427">
+  <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" />
+</a>
 
 <br/><br/>
 
@@ -57,6 +61,21 @@ I enjoy turning ideas into practical software with clean code, thoughtful archit
 - ☁️ **Cloud & Deployment:** Vercel, Netlify, AWS S3, Docker
 - 🧰 **Tools:** Git, GitHub, Postman, AI coding agents (Claude Code)
 - 🎯 **Engineering Focus:** Clean code, API design, performance, and maintainable architecture
+
+---
+
+## 💼 Hire Me: Fixed-Price Packages
+
+Need a web app or AI feature built? Order a fixed-price package on Upwork, with clear scope and protected payment:
+
+| Package | From | Delivery |
+|---|---|---|
+| [Fix and deploy your AI-built React or Next.js app](https://www.upwork.com/services/product/development-it-your-ai-built-react-or-next-js-app-fixed-finished-and-deployed-2115740098963508155) | $60 | 3 days |
+| [Full-stack web app with Node.js, Express and React](https://www.upwork.com/services/product/development-it-node-js-developer-react-express-js-full-stack-developer-2122327073388361339) | $99 | 3 days |
+| [AI chatbot or AI feature for your React or Next.js app](https://www.upwork.com/services/product/development-it-an-ai-chatbot-or-ai-feature-added-to-your-react-or-next-js-web-app-2115738187796053328) | $150 | 4 days |
+| [Figma design turned into a responsive React front end](https://www.upwork.com/services/product/development-it-react-js-developer-front-end-developer-figma-to-react-2122317565305864601) | $150 | 4 days |
+
+Not sure which one fits? [Message me on Upwork](https://www.upwork.com/freelancers/~01c0c3cf471b66a427) with what you need.
 
 ---
 
