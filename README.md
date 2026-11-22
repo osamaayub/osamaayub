@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/osama-ayub8889993755979/">
+<a href="https://www.linkedin.com/in/osama-ayub/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
@@ -435,7 +435,7 @@ Interested in building SaaS products, developer tools, AI-powered applications, 
 
 <br/>
 
-<a href="https://www.linkedin.com/in/osama-ayub8889993755979/">
+<a href="https://www.linkedin.com/in/osama-ayub/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 &nbsp;
