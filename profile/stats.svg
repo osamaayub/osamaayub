@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Osama Ayub&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 172, Total Commits  (last year) : 1307, Total PRs: 253, Total Issues: 12, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 172, Total Commits  (last year) : 1311, Total PRs: 253, Total Issues: 12, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 58.075120408868806;
+        stroke-dashoffset: 58.06250697455228;
       }
     }
   
